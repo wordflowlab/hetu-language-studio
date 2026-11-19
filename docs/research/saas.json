@@ -1,0 +1,24 @@
+{
+  "retrieved_on": "2026-11-19",
+  "pages": [
+    {
+      "name": "VulgarLang",
+      "url": "https://www.vulgarlang.com/",
+      "status": "200",
+      "exit_code": 0,
+      "sha256": "935fc098cc1b90680729101345e2f370aab60c8fbc43f9878a31c978c9c9b7d1",
+      "title": "One moment, please...",
+      "scope": "公开页面；未登录、未执行产品业务"
+    },
+    {
+      "name": "ConWorkShop",
+      "url": "https://conworkshop.com/",
+      "status": "403",
+      "exit_code": 0,
+      "sha256": "76cd5b4ea02e1c9f8c07b552757d0d0dd6ef173581b2d195233c48d305c6e49b",
+      "title": "Just a moment...",
+      "scope": "公开页面；未登录、未执行产品业务"
+    }
+  ],
+  "limits": "可访问页面不等于已体验产品；HTTP失败保留原状态。"
+}

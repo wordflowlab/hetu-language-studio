@@ -1,0 +1,70 @@
+{
+  "retrieved_on": "2026-11-19",
+  "sources": [
+    {
+      "repository": "https://github.com/def-gthill/lexurgy",
+      "commit": "ccb486bfdc88c5937e065506d9fa836eaf0d4b6e",
+      "license": "GPL-3.0",
+      "files": [
+        {
+          "path": "README.md",
+          "sha256": "01bdd2ca96328d602503953dfe12826efcf27157a3c40613c5f224e829a1cd73",
+          "read_lines": [
+            1,
+            12
+          ]
+        },
+        {
+          "path": "LICENSE",
+          "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+          "read_lines": [
+            1,
+            20
+          ]
+        },
+        {
+          "path": "core/src/main/kotlin/com/meamoria/lexurgy/sc/SequencedRule.kt",
+          "sha256": "e126bede9e51dc5f02d79bc267b2cfdd2ac90d693fc737e2dd0fca0af4240fcc",
+          "read_lines": [
+            1,
+            90
+          ]
+        }
+      ],
+      "use": "只读研究，未运行上游脚本或复制实现"
+    },
+    {
+      "repository": "https://github.com/DraqueT/PolyGlot",
+      "commit": "089b9d0b863dcf80356da036f7bed068945c9aaf",
+      "license": "MIT",
+      "files": [
+        {
+          "path": "README.md",
+          "sha256": "f7ec847917c56bc3ddfa6cc9f2226c20c140debacdb0edcefa3a2f5c378e5cb3",
+          "read_lines": [
+            1,
+            38
+          ]
+        },
+        {
+          "path": "LICENSE.TXT",
+          "sha256": "253b72fa3e21210a2ccc6cdead085e0e14f9264d6c23a0a8a4ede4e35f238748",
+          "read_lines": [
+            1,
+            9
+          ]
+        },
+        {
+          "path": "src/main/java/org/darisadesigns/polyglotlina/Nodes/ConjugationGenRule.java",
+          "sha256": "02a3feb71f62fe7f598a4cb6e8d01accf862df6167e173a35d5d7d3bfa6a6f38",
+          "read_lines": [
+            1,
+            100
+          ]
+        }
+      ],
+      "use": "只读研究，未运行上游脚本或复制实现"
+    }
+  ],
+  "adoption": "Lexurgy展示音变顺序与环境，PolyGlot区分词典、音系和派生。本包研究结构后独立实现有限音位序列规则，不复制GPL音变引擎，也不宣称其DSL兼容。"
+}
