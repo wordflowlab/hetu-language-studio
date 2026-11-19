@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-19",
+  "entry": "本次Codex对话实际hetu_call_action长连接",
+  "connected_core_version": "0.12.3",
+  "official_installed_host_verified_separately": "0.12.6",
+  "plugin_id": "org.wordflowlab.language-studio",
+  "package_sha256": "c64913f4ace3eef524924e784b1e8f600a96173bedff08c2b107795cd9c54a12",
+  "capabilities_sha256": "31748475efe7de6a50deb44dea26096110f8017451022efa5eee6a2341277908",
+  "actual_action_count": 31,
+  "discovered_schema": "get_project",
+  "skill_resources": [
+    {
+      "resource": "SKILL.md",
+      "sha256": "5dc8fab7ab6b0642f0cceca1b615d4b2ec20b0e3dd331dc1c5dcc774f5b04595",
+      "bytes_equal_to_final_package": true,
+      "characters": 678
+    },
+    {
+      "resource": "references/workflows.md",
+      "sha256": "8684798d39fb8eebb638be5567f11649a76078d96d48e8b2e28e045f54b0ed2f",
+      "bytes_equal_to_final_package": true,
+      "characters": 624
+    },
+    {
+      "resource": "references/operations.md",
+      "sha256": "2859293c78eb42ce1ff8a63310557d68519a9912e78a1148e38d17a9cc05b552",
+      "bytes_equal_to_final_package": true,
+      "characters": 2746
+    }
+  ],
+  "fixed_ref": {
+    "object_id": "ext_0ee7c0d8-ad63-4481-8abc-71da7ba18605",
+    "revision": 4,
+    "sha256": "99b458d4825db2b91fac15cac04ba905b4fe206f002d27bb3e89974ed2a32803"
+  },
+  "fixed_work_ref": {
+    "workspace_id": "workspace_01abb9b1-8e4a-46ac-a8ee-82d200f35875",
+    "kind": "novel",
+    "object_id": "novel_c070a2bc-10f4-4b55-a61b-981caa46f1ac"
+  },
+  "fixed_project_read_complete": true,
+  "repository_skill_comparison": "实际响应逐字节等于最终dist包",
+  "limits": [
+    "长连接发现和专业成果回读不替代正式宿主完整业务旅程",
+    "只读取原创隔离验收工程，不采纳或定稿"
+  ]
+}
