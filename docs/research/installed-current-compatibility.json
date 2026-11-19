@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-19",
+  "core_version": "hetu 0.13.4",
+  "entry": "现有安装包独立CLI，未启动或覆盖GUI",
+  "plugin_id": "org.wordflowlab.language-studio",
+  "package_sha256": "c64913f4ace3eef524924e784b1e8f600a96173bedff08c2b107795cd9c54a12",
+  "fixed_ref": {
+    "object_id": "ext_0ee7c0d8-ad63-4481-8abc-71da7ba18605",
+    "revision": 4,
+    "sha256": "99b458d4825db2b91fac15cac04ba905b4fe206f002d27bb3e89974ed2a32803"
+  },
+  "actual_capabilities_and_fixed_project_read": true,
+  "scope": "当前安装版兼容发现和固定成果读取；完整专业旅程仍由正式0.12.6证据证明"
+}
